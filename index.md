@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-[API](#api/index.md)
+[API](api/index.md)
 
 You can use the [editor on GitHub](https://github.com/coanda/coanda.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
